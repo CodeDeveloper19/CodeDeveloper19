@@ -7,7 +7,7 @@
     Linkedin: https://www.linkedin.com/in/okoli-akachukwu-6b321b178
    
     ![Okoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDeveloper19&theme=gruvbox&show_icons=true)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDeveloper19)]
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDeveloper19&theme=gruvbox_light&langs_count=10&layout=compact)
 <!---
 CodeDeveloper19/CodeDeveloper19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
