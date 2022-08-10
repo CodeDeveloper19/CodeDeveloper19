@@ -18,4 +18,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDeveloper19&theme=gruvbox_light&langs_count=10&layout=compact)
 
 ## My GitHub Streak
-![Okoli's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDeveloper19&amp;)
+![Okoli's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDeveloper19&theme=radical&amp;)
