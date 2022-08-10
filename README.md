@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeDeveloper19
 
 
-![Okoli's Trophy Achievements](https://github.com/ryo-ma/github-profile-trophy)
+[![Okoli's Trophy Achievements](https://github-profile-trophy.vercel.app/?username=CodeDeveloper19)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👀 I’m interested in Front-End Web Development and Game Development.
