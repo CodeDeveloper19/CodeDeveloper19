@@ -24,7 +24,8 @@
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width="48px" height="48px" alt="Javascript icon">
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="48px" height="48px" alt="Git icon">
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg" width="48px" height="48px" alt="Sass icon">
-<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="48px" height="48px" alt="Bootstrap icon">
+<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="58px" height="48px" alt="Bootstrap icon">
+<img src="https://banner2.cleanpng.com/20180429/kdq/kisspng-ajax-web-development-jquery-javascript-form-5ae586529b70e3.1774488815249915706367.jpg" width="fit-content" height="48px" alt="Bootstrap icon">
       
 ## 📈 GitHub Profile Stats 
 ![Okoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeDeveloper19&theme=gruvbox&show_icons=true)
