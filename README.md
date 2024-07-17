@@ -4,16 +4,14 @@
 
 ## 👨 Personal Details
 - 👋 Hi, I’m @CodeDeveloper19
-- 👀 I’m interested in Front-End Web Development and Game Development.
-- 💼 I'm currently still a student, but I am seriously working to be a professional web and game developer.
+- 👀 I’m interested in Front-End Development (both mobile aspect and web) and Game Development.
+- 💼 I am striving to enjoy the experiences the worlds my interests would provide.
 - 📫 How to reach me?:  
     [Email](mailto:okoli555aka@gmail.com)
     
 ## 🌱 I’m currently learning 
-* React 
-* Node.js 
-* React Native
-* Tailwind CSS
+* NextJS
+* Flutter
 
 ## 🌎 Socials 
 [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="48px" height="48px">](https://stackoverflow.com/users/17683986/akachukwu)
@@ -23,9 +21,10 @@
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width="48px" height="48px" alt="HTML5 icon"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" width="48px" height="48px" alt="CSS3 icon">
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width="48px" height="48px" alt="Javascript icon">
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="48px" height="48px" alt="Git icon">
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg" width="48px" height="48px" alt="Sass icon">
-<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="58px" height="48px" alt="Bootstrap icon">
-<img src="https://banner2.cleanpng.com/20180429/kdq/kisspng-ajax-web-development-jquery-javascript-form-5ae586529b70e3.1774488815249915706367.jpg" width="fit-content" height="48px" alt="jQuery icon">
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/dart.svg" width="48px" height="48px" alt="Dart icon">
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" width="48px" height="48px" alt="React icon">
+<img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" width="48px" height="48px" alt="NextJS icon">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6yRXL42wixlNWY39gFRhtQZEGIL0f4qbd7Pc9-3OIsUXnjJNZz2XKT5V8FPJ8Q0QKrjQ&usqp=CAU" width="fit-content" height="48px" alt="Tailwind icon">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" width="40px" height="48px" alt="Firebase icon">
 
       
