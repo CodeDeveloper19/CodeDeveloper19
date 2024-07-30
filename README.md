@@ -2,6 +2,8 @@
 ## 🏆 GitHub Profile Trophy 
 [![Okoli's Trophy Achievements](https://github-profile-trophy.vercel.app/?username=CodeDeveloper19&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://komarev.com/ghpvc/?username=CodeDeveloper19)
+
 ## 👨 Personal Details
 - 👋 Hi, I’m @CodeDeveloper19
 - 👀 I’m interested in Front-End Development (both mobile aspect and web) and Game Development.
